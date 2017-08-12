@@ -1,0 +1,27 @@
+{
+    "author": "joey.chik0103@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface-v2",
+    "pebble": {
+        "displayName": "watchface v2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "0cf59448-21bf-444a-a575-0a28eaf8f952",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
